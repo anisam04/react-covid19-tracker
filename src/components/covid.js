@@ -66,7 +66,7 @@ const Covid = () => {
           <div className='card_main'>
             <div className='card_inner'>
               <p className="card_name"><span>TOTAL </span>ACTIVE CASES</p>
-              <p className='card_total card_small'>{data.cases_daily}</p>
+              <p className='card_total card_small'>4379</p>
             </div>
           </div>
         </li >
